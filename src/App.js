@@ -16,8 +16,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello world!
         </a>
+        <p>
+          So this will add another paragraph of text below the hello world link
+        </p>
       </header>
     </div>
   );
